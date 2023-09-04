@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alarm Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="title">
+        <h1>Alarm Clock</h1>
+    </div>
+    <div class="d-flex" id="main-container">
+        <div class="d-flex" id="clock-container">
+            <div class="mb" id="current-time">
+                _ : _ : _
+            </div>
+            <form class="d-flex mb" id="alarm-form">
+                <div>
+                    <select name="hours" id="hours" required></select>
+                    <select name="minutes" id="minutes" required></select>
+                    <select name="seconds" id="seconds" required></select>
+                    <select name="am-pm" id="am-pm">
+                        <option value="AM">AM</option>
+                        <option value="PM">PM</option>
+                    </select>
+                </div>
+                <button class="btn" id="submit-button" type="submit">Set Alarm</button>
+            </form>
+            <div id="alarm-container">
+                <div id="alarm-container-title" class="mb">ALARMS</div>
+                <div class="alarms-container" id="alarms-container"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript File -->
+    <script src="./index.js"></script>
+</body>
+</html>
