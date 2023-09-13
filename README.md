@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 Check out the live demo of the application at https://alonepredator.github.io/AlarmClock/
 
 ## Author
-Sujit Kumar Yadav(@AlonePredator)
+Sujit Kumar Yadav(https://github.com/AlonePredator)
  
  
 
