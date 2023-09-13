@@ -9,7 +9,6 @@ Overall, this project demonstrates your skills in working with vanilla Javascrip
 
 - Shows current time
 - Provide options with the help of dropdown to set alarms
-- Shows notification when alarm is set or deleted
 - Ability to restore saved alarms even after reopening the browser
 - Works seamlessly on both mobile and desktop devices
 
