@@ -1,5 +1,5 @@
 ## Alarm Clock App
-This project is a web application that utilizea the power of vanilla Javascript to provide seamless user experience. The main feature of the app is its ability to show the current time and provide options  with the help of dropdown to select the preferred time to set the alarm.
+This project is a web application that utilizes the power of vanilla Javascript to provide seamless user experience. The main feature of the app is its ability to show the current time and provide options  with the help of dropdown to select the preferred time to set the alarm.
 
 In addition to showing current time feature, the app also includes the ability for users to view the alarms which they had set before. Even after closing the browser the alarms get saved in the browser and when you reopen it it shows the all saved alarms.
 
